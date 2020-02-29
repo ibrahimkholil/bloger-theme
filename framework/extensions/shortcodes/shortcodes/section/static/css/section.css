@@ -1,0 +1,35 @@
+.fw-main-row.fw-container-fluid {
+	
+}
+.fw-main-row.fw-container-fluid .fw-col-sm-12{
+	padding:0px;
+}
+.fw-main-row.full-height{
+	height:100vh;	
+    padding-top: 0px;
+    padding-bottom: 0px;	
+}  
+
+.fw-container{
+	padding-top:2em;
+	padding-bottom:2em;
+	position:relative;
+}
+.fw-page-builder-content .nav-arrows{
+    position: absolute;
+    z-index: 1;
+    bottom: 2em;
+    right: 3em;
+    cursor: pointer;	
+	text-align:center;
+}
+.fw-page-builder-content .nav-arrows span{
+    background: rgba(248, 248, 248, 0.5);
+    width: 40px;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;	
+}
+.fw-page-builder-content .nav-arrows i{
+    line-height: 40px;	
+}
